@@ -1,0 +1,263 @@
+region,country,year,event_type,num_events,sum(fatalities)
+Southern Asia,Bangladesh,2010,Violence against civilians,425,275
+Southern Asia,Bangladesh,2010,Strategic developments,75,0
+Southern Asia,Bangladesh,2010,Riots,1137,156
+Southern Asia,Bangladesh,2010,Protests,576,1
+Southern Asia,Bangladesh,2010,Explosions/Remote violence,50,18
+Southern Asia,Bangladesh,2010,Battles,351,163
+Southern Asia,Bangladesh,2011,Violence against civilians,408,271
+Southern Asia,Bangladesh,2011,Strategic developments,38,0
+Southern Asia,Bangladesh,2011,Riots,907,138
+Southern Asia,Bangladesh,2011,Protests,639,1
+Southern Asia,Bangladesh,2011,Explosions/Remote violence,32,4
+Southern Asia,Bangladesh,2011,Battles,294,159
+Southern Asia,Bangladesh,2012,Violence against civilians,340,213
+Southern Asia,Bangladesh,2012,Strategic developments,30,0
+Southern Asia,Bangladesh,2012,Riots,820,168
+Southern Asia,Bangladesh,2012,Protests,463,6
+Southern Asia,Bangladesh,2012,Explosions/Remote violence,18,6
+Southern Asia,Bangladesh,2012,Battles,177,78
+Southern Asia,Bangladesh,2013,Violence against civilians,398,252
+Southern Asia,Bangladesh,2013,Strategic developments,25,2
+Southern Asia,Bangladesh,2013,Riots,1736,388
+Southern Asia,Bangladesh,2013,Protests,350,12
+Southern Asia,Bangladesh,2013,Explosions/Remote violence,26,8
+Southern Asia,Bangladesh,2013,Battles,203,151
+Southern Asia,Bangladesh,2014,Violence against civilians,253,144
+Southern Asia,Bangladesh,2014,Strategic developments,8,1
+Southern Asia,Bangladesh,2014,Riots,511,125
+Southern Asia,Bangladesh,2014,Protests,143,1
+Southern Asia,Bangladesh,2014,Explosions/Remote violence,6,0
+Southern Asia,Bangladesh,2014,Battles,199,120
+Southern Asia,Bangladesh,2015,Violence against civilians,184,117
+Southern Asia,Bangladesh,2015,Strategic developments,26,0
+Southern Asia,Bangladesh,2015,Riots,1167,249
+Southern Asia,Bangladesh,2015,Protests,353,1
+Southern Asia,Bangladesh,2015,Explosions/Remote violence,41,9
+Southern Asia,Bangladesh,2015,Battles,137,127
+Southern Asia,Bangladesh,2016,Violence against civilians,140,119
+Southern Asia,Bangladesh,2016,Strategic developments,6,0
+Southern Asia,Bangladesh,2016,Riots,266,100
+Southern Asia,Bangladesh,2016,Protests,268,3
+Southern Asia,Bangladesh,2016,Explosions/Remote violence,8,2
+Southern Asia,Bangladesh,2016,Battles,129,195
+Southern Asia,Bangladesh,2017,Violence against civilians,65,50
+Southern Asia,Bangladesh,2017,Strategic developments,11,1
+Southern Asia,Bangladesh,2017,Riots,149,33
+Southern Asia,Bangladesh,2017,Protests,256,0
+Southern Asia,Bangladesh,2017,Explosions/Remote violence,15,43
+Southern Asia,Bangladesh,2017,Battles,91,122
+Southern Asia,Bangladesh,2018,Violence against civilians,206,119
+Southern Asia,Bangladesh,2018,Strategic developments,7,0
+Southern Asia,Bangladesh,2018,Riots,461,62
+Southern Asia,Bangladesh,2018,Protests,496,0
+Southern Asia,Bangladesh,2018,Battles,72,70
+Southern Asia,Bangladesh,2019,Violence against civilians,207,162
+Southern Asia,Bangladesh,2019,Strategic developments,13,0
+Southern Asia,Bangladesh,2019,Riots,341,100
+Southern Asia,Bangladesh,2019,Protests,659,1
+Southern Asia,Bangladesh,2019,Explosions/Remote violence,4,1
+Southern Asia,Bangladesh,2019,Battles,86,56
+Southern Asia,India,2016,Violence against civilians,484,300
+Southern Asia,India,2016,Strategic developments,121,8
+Southern Asia,India,2016,Riots,2086,198
+Southern Asia,India,2016,Protests,9688,88
+Southern Asia,India,2016,Explosions/Remote violence,228,69
+Southern Asia,India,2016,Battles,693,1007
+Southern Asia,India,2017,Violence against civilians,618,317
+Southern Asia,India,2017,Strategic developments,100,2
+Southern Asia,India,2017,Riots,2029,205
+Southern Asia,India,2017,Protests,10097,12
+Southern Asia,India,2017,Explosions/Remote violence,198,64
+Southern Asia,India,2017,Battles,766,844
+Southern Asia,India,2018,Violence against civilians,993,525
+Southern Asia,India,2018,Strategic developments,197,2
+Southern Asia,India,2018,Riots,2886,223
+Southern Asia,India,2018,Protests,12276,1
+Southern Asia,India,2018,Explosions/Remote violence,300,148
+Southern Asia,India,2018,Battles,1120,1204
+Southern Asia,India,2019,Violence against civilians,967,448
+Southern Asia,India,2019,Strategic developments,249,5
+Southern Asia,India,2019,Riots,3797,229
+Southern Asia,India,2019,Protests,12159,1
+Southern Asia,India,2019,Explosions/Remote violence,174,102
+Southern Asia,India,2019,Battles,701,455
+Southern Asia,Nepal,2010,Violence against civilians,66,26
+Southern Asia,Nepal,2010,Strategic developments,3,0
+Southern Asia,Nepal,2010,Riots,221,3
+Southern Asia,Nepal,2010,Protests,216,0
+Southern Asia,Nepal,2010,Explosions/Remote violence,16,0
+Southern Asia,Nepal,2010,Battles,11,12
+Southern Asia,Nepal,2011,Violence against civilians,24,4
+Southern Asia,Nepal,2011,Strategic developments,13,0
+Southern Asia,Nepal,2011,Riots,103,1
+Southern Asia,Nepal,2011,Protests,166,0
+Southern Asia,Nepal,2011,Explosions/Remote violence,28,5
+Southern Asia,Nepal,2011,Battles,5,4
+Southern Asia,Nepal,2012,Violence against civilians,20,4
+Southern Asia,Nepal,2012,Strategic developments,18,0
+Southern Asia,Nepal,2012,Riots,183,2
+Southern Asia,Nepal,2012,Protests,291,0
+Southern Asia,Nepal,2012,Explosions/Remote violence,19,14
+Southern Asia,Nepal,2012,Battles,5,1
+Southern Asia,Nepal,2013,Violence against civilians,59,1
+Southern Asia,Nepal,2013,Strategic developments,48,0
+Southern Asia,Nepal,2013,Riots,265,3
+Southern Asia,Nepal,2013,Protests,285,0
+Southern Asia,Nepal,2013,Explosions/Remote violence,25,2
+Southern Asia,Nepal,2013,Battles,3,0
+Southern Asia,Nepal,2014,Violence against civilians,7,2
+Southern Asia,Nepal,2014,Strategic developments,1,0
+Southern Asia,Nepal,2014,Riots,54,2
+Southern Asia,Nepal,2014,Protests,181,0
+Southern Asia,Nepal,2014,Explosions/Remote violence,6,2
+Southern Asia,Nepal,2014,Battles,1,0
+Southern Asia,Nepal,2015,Violence against civilians,10,1
+Southern Asia,Nepal,2015,Strategic developments,3,0
+Southern Asia,Nepal,2015,Riots,366,43
+Southern Asia,Nepal,2015,Protests,371,6
+Southern Asia,Nepal,2015,Explosions/Remote violence,4,0
+Southern Asia,Nepal,2015,Battles,4,1
+Southern Asia,Nepal,2016,Violence against civilians,7,3
+Southern Asia,Nepal,2016,Strategic developments,9,0
+Southern Asia,Nepal,2016,Riots,106,4
+Southern Asia,Nepal,2016,Protests,273,0
+Southern Asia,Nepal,2016,Explosions/Remote violence,1,0
+Southern Asia,Nepal,2016,Battles,2,1
+Southern Asia,Nepal,2017,Violence against civilians,13,3
+Southern Asia,Nepal,2017,Strategic developments,34,0
+Southern Asia,Nepal,2017,Riots,186,13
+Southern Asia,Nepal,2017,Protests,235,0
+Southern Asia,Nepal,2017,Explosions/Remote violence,72,2
+Southern Asia,Nepal,2017,Battles,4,0
+Southern Asia,Nepal,2018,Violence against civilians,32,7
+Southern Asia,Nepal,2018,Strategic developments,35,0
+Southern Asia,Nepal,2018,Riots,141,4
+Southern Asia,Nepal,2018,Protests,403,0
+Southern Asia,Nepal,2018,Explosions/Remote violence,27,0
+Southern Asia,Nepal,2018,Battles,4,2
+Southern Asia,Nepal,2019,Violence against civilians,78,14
+Southern Asia,Nepal,2019,Strategic developments,102,1
+Southern Asia,Nepal,2019,Riots,392,7
+Southern Asia,Nepal,2019,Protests,1467,0
+Southern Asia,Nepal,2019,Explosions/Remote violence,44,5
+Southern Asia,Nepal,2019,Battles,16,7
+Southern Asia,Pakistan,2010,Violence against civilians,381,570
+Southern Asia,Pakistan,2010,Strategic developments,31,0
+Southern Asia,Pakistan,2010,Riots,334,41
+Southern Asia,Pakistan,2010,Protests,3549,12
+Southern Asia,Pakistan,2010,Explosions/Remote violence,666,3797
+Southern Asia,Pakistan,2010,Battles,578,3119
+Southern Asia,Pakistan,2011,Violence against civilians,304,490
+Southern Asia,Pakistan,2011,Strategic developments,30,0
+Southern Asia,Pakistan,2011,Riots,164,17
+Southern Asia,Pakistan,2011,Protests,2349,2
+Southern Asia,Pakistan,2011,Explosions/Remote violence,580,1991
+Southern Asia,Pakistan,2011,Battles,292,1814
+Southern Asia,Pakistan,2012,Violence against civilians,610,1042
+Southern Asia,Pakistan,2012,Strategic developments,77,16
+Southern Asia,Pakistan,2012,Riots,400,84
+Southern Asia,Pakistan,2012,Protests,4467,14
+Southern Asia,Pakistan,2012,Explosions/Remote violence,918,2453
+Southern Asia,Pakistan,2012,Battles,500,2464
+Southern Asia,Pakistan,2013,Violence against civilians,421,664
+Southern Asia,Pakistan,2013,Strategic developments,25,0
+Southern Asia,Pakistan,2013,Riots,288,68
+Southern Asia,Pakistan,2013,Protests,4005,4
+Southern Asia,Pakistan,2013,Explosions/Remote violence,750,2074
+Southern Asia,Pakistan,2013,Battles,419,1428
+Southern Asia,Pakistan,2014,Violence against civilians,355,639
+Southern Asia,Pakistan,2014,Strategic developments,26,0
+Southern Asia,Pakistan,2014,Riots,186,53
+Southern Asia,Pakistan,2014,Protests,2367,0
+Southern Asia,Pakistan,2014,Explosions/Remote violence,723,2826
+Southern Asia,Pakistan,2014,Battles,533,1754
+Southern Asia,Pakistan,2015,Violence against civilians,301,532
+Southern Asia,Pakistan,2015,Strategic developments,70,10
+Southern Asia,Pakistan,2015,Riots,226,62
+Southern Asia,Pakistan,2015,Protests,3233,9
+Southern Asia,Pakistan,2015,Explosions/Remote violence,499,1953
+Southern Asia,Pakistan,2015,Battles,569,1951
+Southern Asia,Pakistan,2016,Violence against civilians,151,187
+Southern Asia,Pakistan,2016,Strategic developments,115,5
+Southern Asia,Pakistan,2016,Riots,119,20
+Southern Asia,Pakistan,2016,Protests,3343,14
+Southern Asia,Pakistan,2016,Explosions/Remote violence,308,804
+Southern Asia,Pakistan,2016,Battles,428,1175
+Southern Asia,Pakistan,2017,Violence against civilians,113,150
+Southern Asia,Pakistan,2017,Strategic developments,52,0
+Southern Asia,Pakistan,2017,Riots,138,15
+Southern Asia,Pakistan,2017,Protests,3895,15
+Southern Asia,Pakistan,2017,Explosions/Remote violence,231,669
+Southern Asia,Pakistan,2017,Battles,376,896
+Southern Asia,Pakistan,2018,Violence against civilians,321,294
+Southern Asia,Pakistan,2018,Strategic developments,98,2
+Southern Asia,Pakistan,2018,Riots,448,41
+Southern Asia,Pakistan,2018,Protests,5347,1
+Southern Asia,Pakistan,2018,Explosions/Remote violence,191,411
+Southern Asia,Pakistan,2018,Battles,315,479
+Southern Asia,Pakistan,2019,Violence against civilians,320,266
+Southern Asia,Pakistan,2019,Strategic developments,151,0
+Southern Asia,Pakistan,2019,Riots,348,7
+Southern Asia,Pakistan,2019,Protests,4858,1
+Southern Asia,Pakistan,2019,Explosions/Remote violence,148,161
+Southern Asia,Pakistan,2019,Battles,307,477
+Southern Asia,Sri Lanka,2010,Violence against civilians,40,11
+Southern Asia,Sri Lanka,2010,Strategic developments,8,0
+Southern Asia,Sri Lanka,2010,Riots,116,1
+Southern Asia,Sri Lanka,2010,Protests,110,0
+Southern Asia,Sri Lanka,2010,Explosions/Remote violence,16,14
+Southern Asia,Sri Lanka,2010,Battles,3,2
+Southern Asia,Sri Lanka,2011,Violence against civilians,22,7
+Southern Asia,Sri Lanka,2011,Strategic developments,3,1
+Southern Asia,Sri Lanka,2011,Riots,62,4
+Southern Asia,Sri Lanka,2011,Protests,151,1
+Southern Asia,Sri Lanka,2011,Explosions/Remote violence,5,2
+Southern Asia,Sri Lanka,2011,Battles,12,10
+Southern Asia,Sri Lanka,2012,Violence against civilians,18,7
+Southern Asia,Sri Lanka,2012,Strategic developments,1,0
+Southern Asia,Sri Lanka,2012,Riots,58,29
+Southern Asia,Sri Lanka,2012,Protests,154,1
+Southern Asia,Sri Lanka,2012,Explosions/Remote violence,13,2
+Southern Asia,Sri Lanka,2013,Violence against civilians,50,9
+Southern Asia,Sri Lanka,2013,Strategic developments,4,0
+Southern Asia,Sri Lanka,2013,Riots,74,4
+Southern Asia,Sri Lanka,2013,Protests,146,0
+Southern Asia,Sri Lanka,2013,Explosions/Remote violence,3,1
+Southern Asia,Sri Lanka,2013,Battles,4,1
+Southern Asia,Sri Lanka,2014,Violence against civilians,28,3
+Southern Asia,Sri Lanka,2014,Strategic developments,2,0
+Southern Asia,Sri Lanka,2014,Riots,19,1
+Southern Asia,Sri Lanka,2014,Protests,106,0
+Southern Asia,Sri Lanka,2014,Explosions/Remote violence,2,0
+Southern Asia,Sri Lanka,2014,Battles,1,3
+Southern Asia,Sri Lanka,2015,Violence against civilians,13,3
+Southern Asia,Sri Lanka,2015,Strategic developments,1,0
+Southern Asia,Sri Lanka,2015,Riots,38,2
+Southern Asia,Sri Lanka,2015,Protests,214,1
+Southern Asia,Sri Lanka,2015,Explosions/Remote violence,6,2
+Southern Asia,Sri Lanka,2015,Battles,7,1
+Southern Asia,Sri Lanka,2016,Violence against civilians,5,3
+Southern Asia,Sri Lanka,2016,Strategic developments,4,0
+Southern Asia,Sri Lanka,2016,Riots,34,1
+Southern Asia,Sri Lanka,2016,Protests,391,0
+Southern Asia,Sri Lanka,2016,Explosions/Remote violence,1,0
+Southern Asia,Sri Lanka,2016,Battles,1,0
+Southern Asia,Sri Lanka,2017,Violence against civilians,8,0
+Southern Asia,Sri Lanka,2017,Strategic developments,8,0
+Southern Asia,Sri Lanka,2017,Riots,32,1
+Southern Asia,Sri Lanka,2017,Protests,359,0
+Southern Asia,Sri Lanka,2017,Explosions/Remote violence,1,0
+Southern Asia,Sri Lanka,2017,Battles,1,1
+Southern Asia,Sri Lanka,2018,Violence against civilians,35,11
+Southern Asia,Sri Lanka,2018,Strategic developments,27,0
+Southern Asia,Sri Lanka,2018,Riots,89,7
+Southern Asia,Sri Lanka,2018,Protests,427,0
+Southern Asia,Sri Lanka,2018,Explosions/Remote violence,2,2
+Southern Asia,Sri Lanka,2018,Battles,8,6
+Southern Asia,Sri Lanka,2019,Violence against civilians,40,16
+Southern Asia,Sri Lanka,2019,Strategic developments,56,0
+Southern Asia,Sri Lanka,2019,Riots,95,8
+Southern Asia,Sri Lanka,2019,Protests,546,0
+Southern Asia,Sri Lanka,2019,Explosions/Remote violence,13,254
+Southern Asia,Sri Lanka,2019,Battles,7,17
