@@ -1,0 +1,301 @@
+,countryname,year,Estimate,Std Error,Variable
+0,Bangladesh,2009,-0.2890779,0.115313485,Voice and Accountability 
+1,Bangladesh,2009,-1.5447134,0.24640195,Political Stability and Absence of Violence/Terrorism
+2,Bangladesh,2009,-0.7912479,0.19584812,Government Effectiveness
+3,Bangladesh,2009,-0.86452436,0.1658042,Regulatory Quality
+4,Bangladesh,2009,-0.7855526,0.14381906,Rule of Law
+5,Bangladesh,2009,-1.06978,0.16330649,Control of Corruption 
+6,Bangladesh,2010,-0.26809528,0.11387997,Voice and Accountability 
+7,Bangladesh,2010,-1.4257895,0.2435471,Political Stability and Absence of Violence/Terrorism
+8,Bangladesh,2010,-0.73563254,0.19493617,Government Effectiveness
+9,Bangladesh,2010,-0.8470868,0.16414785,Regulatory Quality
+10,Bangladesh,2010,-0.8029345,0.14183307,Rule of Law
+11,Bangladesh,2010,-1.0571207,0.15812536,Control of Corruption 
+12,Bangladesh,2011,-0.31506893,0.11223707,Voice and Accountability 
+13,Bangladesh,2011,-1.4047369,0.24067757,Political Stability and Absence of Violence/Terrorism
+14,Bangladesh,2011,-0.755215,0.19484635,Government Effectiveness
+15,Bangladesh,2011,-0.81152284,0.15785551,Regulatory Quality
+16,Bangladesh,2011,-0.7324304,0.13269366,Rule of Law
+17,Bangladesh,2011,-1.0873137,0.14887932,Control of Corruption 
+18,Bangladesh,2012,-0.4019407,0.11214435,Voice and Accountability 
+19,Bangladesh,2012,-1.379089,0.22198433,Political Stability and Absence of Violence/Terrorism
+20,Bangladesh,2012,-0.80416536,0.19622092,Government Effectiveness
+21,Bangladesh,2012,-0.95140505,0.17028582,Regulatory Quality
+22,Bangladesh,2012,-0.9293042,0.13692667,Rule of Law
+23,Bangladesh,2012,-0.8498433,0.14005563,Control of Corruption 
+24,Bangladesh,2013,-0.40538642,0.11064115,Voice and Accountability 
+25,Bangladesh,2013,-1.6278589,0.22801979,Political Stability and Absence of Violence/Terrorism
+26,Bangladesh,2013,-0.79382473,0.19331644,Government Effectiveness
+27,Bangladesh,2013,-0.9147804,0.17129724,Regulatory Quality
+28,Bangladesh,2013,-0.8668169,0.13810161,Rule of Law
+29,Bangladesh,2013,-0.8870706,0.13809732,Control of Corruption 
+30,Bangladesh,2014,-0.47392976,0.12779464,Voice and Accountability 
+31,Bangladesh,2014,-0.8955632,0.19638619,Political Stability and Absence of Violence/Terrorism
+32,Bangladesh,2014,-0.7657504,0.20073561,Government Effectiveness
+33,Bangladesh,2014,-0.93757814,0.18390472,Regulatory Quality
+34,Bangladesh,2014,-0.77766526,0.14947972,Rule of Law
+35,Bangladesh,2014,-0.88693833,0.13592707,Control of Corruption 
+36,Bangladesh,2015,-0.5120468,0.12992612,Voice and Accountability 
+37,Bangladesh,2015,-1.2120179,0.20298342,Political Stability and Absence of Violence/Terrorism
+38,Bangladesh,2015,-0.72361887,0.20394967,Government Effectiveness
+39,Bangladesh,2015,-0.8990583,0.17726158,Regulatory Quality
+40,Bangladesh,2015,-0.75127995,0.14945221,Rule of Law
+41,Bangladesh,2015,-0.8083352,0.1378276,Control of Corruption 
+42,Bangladesh,2016,-0.58529806,0.12561381,Voice and Accountability 
+43,Bangladesh,2016,-1.2619368,0.20779568,Political Stability and Absence of Violence/Terrorism
+44,Bangladesh,2016,-0.67865896,0.19560106,Government Effectiveness
+45,Bangladesh,2016,-0.7966801,0.18546599,Regulatory Quality
+46,Bangladesh,2016,-0.6634919,0.16530874,Rule of Law
+47,Bangladesh,2016,-0.8570897,0.1414026,Control of Corruption 
+48,Bangladesh,2017,-0.61645836,0.12601982,Voice and Accountability 
+49,Bangladesh,2017,-1.2558883,0.21591052,Political Stability and Absence of Violence/Terrorism
+50,Bangladesh,2017,-0.73345035,0.19793217,Government Effectiveness
+51,Bangladesh,2017,-0.80724657,0.17819628,Regulatory Quality
+52,Bangladesh,2017,-0.67121655,0.15539016,Rule of Law
+53,Bangladesh,2017,-0.8317309,0.13005783,Control of Corruption 
+54,Bangladesh,2018,-0.7284137,0.12981038,Voice and Accountability 
+55,Bangladesh,2018,-1.0324798,0.21573813,Political Stability and Absence of Violence/Terrorism
+56,Bangladesh,2018,-0.7483993,0.20633024,Government Effectiveness
+57,Bangladesh,2018,-0.8262727,0.18177086,Regulatory Quality
+58,Bangladesh,2018,-0.6402364,0.14954934,Rule of Law
+59,Bangladesh,2018,-0.90502155,0.13312402,Control of Corruption 
+60,India,2009,0.46068463,0.13091822,Voice and Accountability 
+61,India,2009,-1.3538061,0.24185988,Political Stability and Absence of Violence/Terrorism
+62,India,2009,-0.0124214,0.19117227,Government Effectiveness
+63,India,2009,-0.32677123,0.17134735,Regulatory Quality
+64,India,2009,0.013824042,0.14043051,Rule of Law
+65,India,2009,-0.45197123,0.13295491,Control of Corruption 
+66,India,2010,0.44327238,0.12892094,Voice and Accountability 
+67,India,2010,-1.2779845,0.23933095,Political Stability and Absence of Violence/Terrorism
+68,India,2010,0.025990726,0.19489767,Government Effectiveness
+69,India,2010,-0.37862933,0.17080913,Regulatory Quality
+70,India,2010,-0.03739479,0.13976991,Rule of Law
+71,India,2010,-0.4681174,0.1340232,Control of Corruption 
+72,India,2011,0.43581858,0.12512718,Voice and Accountability 
+73,India,2011,-1.3267953,0.23852235,Political Stability and Absence of Violence/Terrorism
+74,India,2011,0.0059621753,0.19325608,Government Effectiveness
+75,India,2011,-0.34453806,0.16222483,Regulatory Quality
+76,India,2011,-0.09069369,0.13053992,Rule of Law
+77,India,2011,-0.5362822,0.13885415,Control of Corruption 
+78,India,2012,0.3994542,0.12011841,Voice and Accountability 
+79,India,2012,-1.2893099,0.21966553,Political Stability and Absence of Violence/Terrorism
+80,India,2012,-0.1709511,0.1916617,Government Effectiveness
+81,India,2012,-0.47278154,0.17522025,Regulatory Quality
+82,India,2012,-0.07196191,0.135471,Rule of Law
+83,India,2012,-0.5132375,0.12880304,Control of Corruption 
+84,India,2013,0.43278015,0.11953693,Voice and Accountability 
+85,India,2013,-1.2291741,0.22578736,Political Stability and Absence of Violence/Terrorism
+86,India,2013,-0.17153671,0.19013236,Government Effectiveness
+87,India,2013,-0.47063687,0.17490326,Regulatory Quality
+88,India,2013,-0.057318583,0.13666177,Rule of Law
+89,India,2013,-0.51743996,0.12777646,Control of Corruption 
+90,India,2014,0.41329405,0.1275675,Voice and Accountability 
+91,India,2014,-0.997912,0.1922474,Political Stability and Absence of Violence/Terrorism
+92,India,2014,-0.20564733,0.19505262,Government Effectiveness
+93,India,2014,-0.44775912,0.18045291,Regulatory Quality
+94,India,2014,-0.063245445,0.14522563,Rule of Law
+95,India,2014,-0.42802373,0.123641334,Control of Corruption 
+96,India,2015,0.4278702,0.12970695,Voice and Accountability 
+97,India,2015,-0.94849336,0.19816442,Political Stability and Absence of Violence/Terrorism
+98,India,2015,0.0903423,0.19656861,Government Effectiveness
+99,India,2015,-0.3914646,0.17374364,Regulatory Quality
+100,India,2015,-0.047322664,0.14306696,Rule of Law
+101,India,2015,-0.3520183,0.12322592,Control of Corruption 
+102,India,2016,0.44018736,0.12547845,Voice and Accountability 
+103,India,2016,-0.95383984,0.2049565,Political Stability and Absence of Violence/Terrorism
+104,India,2016,0.07518322,0.18911868,Government Effectiveness
+105,India,2016,-0.30650502,0.17855684,Regulatory Quality
+106,India,2016,-0.028877169,0.15756449,Rule of Law
+107,India,2016,-0.28225765,0.12889926,Control of Corruption 
+108,India,2017,0.3855384,0.12590867,Voice and Accountability 
+109,India,2017,-0.7646992,0.21168396,Political Stability and Absence of Violence/Terrorism
+110,India,2017,0.089892484,0.19060335,Government Effectiveness
+111,India,2017,-0.2540298,0.17352355,Regulatory Quality
+112,India,2017,0.004769078,0.1494485,Rule of Law
+113,India,2017,-0.23980765,0.11956328,Control of Corruption 
+114,India,2018,0.37883267,0.12968726,Voice and Accountability 
+115,India,2018,-0.9565214,0.21127102,Political Stability and Absence of Violence/Terrorism
+116,India,2018,0.2830485,0.19551215,Government Effectiveness
+117,India,2018,-0.1836544,0.17532013,Regulatory Quality
+118,India,2018,0.026216514,0.1448283,Rule of Law
+119,India,2018,-0.18629302,0.12445999,Control of Corruption 
+120,Nepal,2009,-0.4410418,0.118477926,Voice and Accountability 
+121,Nepal,2009,-1.6199229,0.26158813,Political Stability and Absence of Violence/Terrorism
+122,Nepal,2009,-0.9502964,0.20957117,Government Effectiveness
+123,Nepal,2009,-0.70667535,0.17298509,Regulatory Quality
+124,Nepal,2009,-0.8600231,0.14636338,Rule of Law
+125,Nepal,2009,-0.7025764,0.16755675,Control of Corruption 
+126,Nepal,2010,-0.44749263,0.11673464,Voice and Accountability 
+127,Nepal,2010,-1.5839711,0.25432348,Political Stability and Absence of Violence/Terrorism
+128,Nepal,2010,-0.87354547,0.2121236,Government Effectiveness
+129,Nepal,2010,-0.7441027,0.16924822,Regulatory Quality
+130,Nepal,2010,-0.9518621,0.14417222,Rule of Law
+131,Nepal,2010,-0.6924811,0.16542222,Control of Corruption 
+132,Nepal,2011,-0.4451258,0.11869648,Voice and Accountability 
+133,Nepal,2011,-1.4164436,0.2549746,Political Stability and Absence of Violence/Terrorism
+134,Nepal,2011,-0.9025553,0.21255723,Government Effectiveness
+135,Nepal,2011,-0.7225809,0.16589636,Regulatory Quality
+136,Nepal,2011,-0.8867433,0.13790181,Rule of Law
+137,Nepal,2011,-0.77893573,0.16314259,Control of Corruption 
+138,Nepal,2012,-0.6423635,0.1164207,Voice and Accountability 
+139,Nepal,2012,-1.3812323,0.23129664,Political Stability and Absence of Violence/Terrorism
+140,Nepal,2012,-0.9826987,0.21039009,Government Effectiveness
+141,Nepal,2012,-0.7998764,0.17323135,Regulatory Quality
+142,Nepal,2012,-0.73570275,0.1408318,Rule of Law
+143,Nepal,2012,-0.81300724,0.15690966,Control of Corruption 
+144,Nepal,2013,-0.52857476,0.11320339,Voice and Accountability 
+145,Nepal,2013,-1.1291461,0.23834883,Political Stability and Absence of Violence/Terrorism
+146,Nepal,2013,-0.9262621,0.20508324,Government Effectiveness
+147,Nepal,2013,-0.8489474,0.17437948,Regulatory Quality
+148,Nepal,2013,-0.7181364,0.14049013,Rule of Law
+149,Nepal,2013,-0.68695503,0.1517211,Control of Corruption 
+150,Nepal,2014,-0.4304571,0.1318305,Voice and Accountability 
+151,Nepal,2014,-0.72459954,0.20315695,Political Stability and Absence of Violence/Terrorism
+152,Nepal,2014,-0.8515413,0.21368757,Government Effectiveness
+153,Nepal,2014,-0.8319318,0.189584,Regulatory Quality
+154,Nepal,2014,-0.64957756,0.15204656,Rule of Law
+155,Nepal,2014,-0.58824235,0.1532852,Control of Corruption 
+156,Nepal,2015,-0.4154408,0.13430832,Voice and Accountability 
+157,Nepal,2015,-0.9983346,0.21161032,Political Stability and Absence of Violence/Terrorism
+158,Nepal,2015,-1.053647,0.21729112,Government Effectiveness
+159,Nepal,2015,-0.79958147,0.18240705,Regulatory Quality
+160,Nepal,2015,-0.6768322,0.15202557,Rule of Law
+161,Nepal,2015,-0.5780479,0.15524203,Control of Corruption 
+162,Nepal,2016,-0.25287133,0.12962149,Voice and Accountability 
+163,Nepal,2016,-0.846812,0.21596734,Political Stability and Absence of Violence/Terrorism
+164,Nepal,2016,-0.8264515,0.20814255,Government Effectiveness
+165,Nepal,2016,-0.76453227,0.19308871,Regulatory Quality
+166,Nepal,2016,-0.79546934,0.16875307,Rule of Law
+167,Nepal,2016,-0.799911,0.15872845,Control of Corruption 
+168,Nepal,2017,-0.23399094,0.1302713,Voice and Accountability 
+169,Nepal,2017,-0.6910934,0.2244965,Political Stability and Absence of Violence/Terrorism
+170,Nepal,2017,-0.88687617,0.21138646,Government Effectiveness
+171,Nepal,2017,-0.71603805,0.18676297,Regulatory Quality
+172,Nepal,2017,-0.67600924,0.1582682,Rule of Law
+173,Nepal,2017,-0.74956834,0.15534945,Control of Corruption 
+174,Nepal,2018,-0.1319581,0.13455707,Voice and Accountability 
+175,Nepal,2018,-0.62514585,0.22353092,Political Stability and Absence of Violence/Terrorism
+176,Nepal,2018,-0.9023383,0.2191608,Government Effectiveness
+177,Nepal,2018,-0.74565333,0.19031772,Regulatory Quality
+178,Nepal,2018,-0.47805277,0.15231666,Rule of Law
+179,Nepal,2018,-0.6736505,0.14950725,Control of Corruption 
+180,Pakistan,2009,-0.8557529,0.115313485,Voice and Accountability 
+181,Pakistan,2009,-2.644811,0.24640195,Political Stability and Absence of Violence/Terrorism
+182,Pakistan,2009,-0.80080265,0.19584812,Government Effectiveness
+183,Pakistan,2009,-0.5784156,0.1658042,Regulatory Quality
+184,Pakistan,2009,-0.83106655,0.14381906,Rule of Law
+185,Pakistan,2009,-1.0691587,0.1607759,Control of Corruption 
+186,Pakistan,2010,-0.7986631,0.11387997,Voice and Accountability 
+187,Pakistan,2010,-2.6759331,0.2435471,Political Stability and Absence of Violence/Terrorism
+188,Pakistan,2010,-0.7658589,0.19493617,Government Effectiveness
+189,Pakistan,2010,-0.5967962,0.16414785,Regulatory Quality
+190,Pakistan,2010,-0.7387198,0.14183307,Rule of Law
+191,Pakistan,2010,-1.0873908,0.15812536,Control of Corruption 
+192,Pakistan,2011,-0.82919943,0.11223707,Voice and Accountability 
+193,Pakistan,2011,-2.8100355,0.24067757,Political Stability and Absence of Violence/Terrorism
+194,Pakistan,2011,-0.8179008,0.19484635,Government Effectiveness
+195,Pakistan,2011,-0.6340992,0.15785551,Regulatory Quality
+196,Pakistan,2011,-0.901871,0.13269366,Rule of Law
+197,Pakistan,2011,-1.076292,0.14887932,Control of Corruption 
+198,Pakistan,2012,-0.84358215,0.11214435,Voice and Accountability 
+199,Pakistan,2012,-2.6770036,0.22198433,Political Stability and Absence of Violence/Terrorism
+200,Pakistan,2012,-0.7779331,0.19622092,Government Effectiveness
+201,Pakistan,2012,-0.7171134,0.17028582,Regulatory Quality
+202,Pakistan,2012,-0.88422126,0.13692667,Rule of Law
+203,Pakistan,2012,-1.0629243,0.14005563,Control of Corruption 
+204,Pakistan,2013,-0.79948056,0.11064115,Voice and Accountability 
+205,Pakistan,2013,-2.603302,0.22801979,Political Stability and Absence of Violence/Terrorism
+206,Pakistan,2013,-0.79180354,0.19331644,Government Effectiveness
+207,Pakistan,2013,-0.70030653,0.17129724,Regulatory Quality
+208,Pakistan,2013,-0.85681576,0.13810161,Rule of Law
+209,Pakistan,2013,-0.9563623,0.13809732,Control of Corruption 
+210,Pakistan,2014,-0.71602386,0.12779464,Voice and Accountability 
+211,Pakistan,2014,-2.4012792,0.19638619,Political Stability and Absence of Violence/Terrorism
+212,Pakistan,2014,-0.7550009,0.20073561,Government Effectiveness
+213,Pakistan,2014,-0.6828627,0.18390472,Regulatory Quality
+214,Pakistan,2014,-0.7603385,0.14947972,Rule of Law
+215,Pakistan,2014,-0.833834,0.13592707,Control of Corruption 
+216,Pakistan,2015,-0.7220663,0.12992612,Voice and Accountability 
+217,Pakistan,2015,-2.482708,0.20298342,Political Stability and Absence of Violence/Terrorism
+218,Pakistan,2015,-0.66751826,0.20394967,Government Effectiveness
+219,Pakistan,2015,-0.627013,0.17726158,Regulatory Quality
+220,Pakistan,2015,-0.76666564,0.14945221,Rule of Law
+221,Pakistan,2015,-0.81075585,0.1378276,Control of Corruption 
+222,Pakistan,2016,-0.7009914,0.12561381,Voice and Accountability 
+223,Pakistan,2016,-2.4831731,0.20779568,Political Stability and Absence of Violence/Terrorism
+224,Pakistan,2016,-0.6533357,0.19560106,Government Effectiveness
+225,Pakistan,2016,-0.6395842,0.18546599,Regulatory Quality
+226,Pakistan,2016,-0.80437845,0.16530874,Rule of Law
+227,Pakistan,2016,-0.87546486,0.13995378,Control of Corruption 
+228,Pakistan,2017,-0.694863,0.12601982,Voice and Accountability 
+229,Pakistan,2017,-2.4059033,0.21591052,Political Stability and Absence of Violence/Terrorism
+230,Pakistan,2017,-0.59763825,0.19793217,Government Effectiveness
+231,Pakistan,2017,-0.5933395,0.17819628,Regulatory Quality
+232,Pakistan,2017,-0.7238973,0.15539016,Rule of Law
+233,Pakistan,2017,-0.7782837,0.12892908,Control of Corruption 
+234,Pakistan,2018,-0.80069333,0.12981038,Voice and Accountability 
+235,Pakistan,2018,-2.2674348,0.21573813,Political Stability and Absence of Violence/Terrorism
+236,Pakistan,2018,-0.6338443,0.20633024,Government Effectiveness
+237,Pakistan,2018,-0.64444166,0.18177086,Regulatory Quality
+238,Pakistan,2018,-0.67302173,0.14954934,Rule of Law
+239,Pakistan,2018,-0.79073375,0.13180204,Control of Corruption 
+240,Sri Lanka,2009,-0.4803367,0.115313485,Voice and Accountability 
+241,Sri Lanka,2009,-1.3421924,0.24640195,Political Stability and Absence of Violence/Terrorism
+242,Sri Lanka,2009,-0.14818914,0.19584812,Government Effectiveness
+243,Sri Lanka,2009,-0.27840313,0.1658042,Regulatory Quality
+244,Sri Lanka,2009,-0.10709977,0.14381906,Rule of Law
+245,Sri Lanka,2009,-0.3974278,0.16330649,Control of Corruption 
+246,Sri Lanka,2010,-0.50522906,0.11550461,Voice and Accountability 
+247,Sri Lanka,2010,-0.94294685,0.2435471,Political Stability and Absence of Violence/Terrorism
+248,Sri Lanka,2010,-0.19500613,0.19493617,Government Effectiveness
+249,Sri Lanka,2010,-0.21786007,0.16414785,Regulatory Quality
+250,Sri Lanka,2010,-0.12149013,0.14329794,Rule of Law
+251,Sri Lanka,2010,-0.42134795,0.15890734,Control of Corruption 
+252,Sri Lanka,2011,-0.54505295,0.117122166,Voice and Accountability 
+253,Sri Lanka,2011,-0.72477144,0.24424958,Political Stability and Absence of Violence/Terrorism
+254,Sri Lanka,2011,-0.111431934,0.19484635,Government Effectiveness
+255,Sri Lanka,2011,-0.11368631,0.16281946,Regulatory Quality
+256,Sri Lanka,2011,-0.12229754,0.1372703,Rule of Law
+257,Sri Lanka,2011,-0.3932713,0.15591706,Control of Corruption 
+258,Sri Lanka,2012,-0.5752793,0.11341011,Voice and Accountability 
+259,Sri Lanka,2012,-0.7170792,0.22198433,Political Stability and Absence of Violence/Terrorism
+260,Sri Lanka,2012,-0.20753224,0.19622092,Government Effectiveness
+261,Sri Lanka,2012,-0.11247518,0.17028582,Regulatory Quality
+262,Sri Lanka,2012,-0.12237635,0.13830693,Rule of Law
+263,Sri Lanka,2012,-0.23678827,0.14026903,Control of Corruption 
+264,Sri Lanka,2013,-0.59417564,0.11064115,Voice and Accountability 
+265,Sri Lanka,2013,-0.6128954,0.22801979,Political Stability and Absence of Violence/Terrorism
+266,Sri Lanka,2013,-0.16986392,0.19331644,Government Effectiveness
+267,Sri Lanka,2013,-0.15342754,0.17129724,Regulatory Quality
+268,Sri Lanka,2013,-0.27696243,0.13810161,Rule of Law
+269,Sri Lanka,2013,-0.21486503,0.13809732,Control of Corruption 
+270,Sri Lanka,2014,-0.667201,0.12779464,Voice and Accountability 
+271,Sri Lanka,2014,-0.33046404,0.19638619,Political Stability and Absence of Violence/Terrorism
+272,Sri Lanka,2014,0.05387764,0.20073561,Government Effectiveness
+273,Sri Lanka,2014,-0.10119675,0.18390472,Regulatory Quality
+274,Sri Lanka,2014,-0.17008361,0.14947972,Rule of Law
+275,Sri Lanka,2014,-0.3438567,0.13592707,Control of Corruption 
+276,Sri Lanka,2015,-0.2961408,0.12992612,Voice and Accountability 
+277,Sri Lanka,2015,0.090368114,0.20298342,Political Stability and Absence of Violence/Terrorism
+278,Sri Lanka,2015,-0.00925624,0.20394967,Government Effectiveness
+279,Sri Lanka,2015,-0.052957598,0.17726158,Regulatory Quality
+280,Sri Lanka,2015,0.03732111,0.14945221,Rule of Law
+281,Sri Lanka,2015,-0.34415537,0.1378276,Control of Corruption 
+282,Sri Lanka,2016,-0.08213055,0.12252114,Voice and Accountability 
+283,Sri Lanka,2016,-0.0040295357,0.20779568,Political Stability and Absence of Violence/Terrorism
+284,Sri Lanka,2016,-0.026169471,0.19560106,Government Effectiveness
+285,Sri Lanka,2016,-0.1000357,0.18546599,Regulatory Quality
+286,Sri Lanka,2016,0.110591605,0.16530874,Rule of Law
+287,Sri Lanka,2016,-0.31072944,0.13995378,Control of Corruption 
+288,Sri Lanka,2017,-0.06331256,0.12388386,Voice and Accountability 
+289,Sri Lanka,2017,-0.07118949,0.21591052,Political Stability and Absence of Violence/Terrorism
+290,Sri Lanka,2017,-0.14797747,0.19793217,Government Effectiveness
+291,Sri Lanka,2017,-0.13164562,0.17819628,Regulatory Quality
+292,Sri Lanka,2017,0.055441722,0.15539016,Rule of Law
+293,Sri Lanka,2017,-0.45185545,0.12892908,Control of Corruption 
+294,Sri Lanka,2018,0.00878365,0.12695585,Voice and Accountability 
+295,Sri Lanka,2018,-0.18316422,0.21573813,Political Stability and Absence of Violence/Terrorism
+296,Sri Lanka,2018,-0.23537934,0.20840599,Government Effectiveness
+297,Sri Lanka,2018,-0.15227424,0.18177353,Regulatory Quality
+298,Sri Lanka,2018,0.026323395,0.15046103,Rule of Law
+299,Sri Lanka,2018,-0.33554348,0.13287327,Control of Corruption 
