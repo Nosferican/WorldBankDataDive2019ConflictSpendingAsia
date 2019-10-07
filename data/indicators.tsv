@@ -1,0 +1,91 @@
+name	code
+Adjusted savings: education expenditure   (% of GNI)	NY.ADJ.AEDU.GN.ZS
+Adjusted savings: education expenditure   (current US$)	NY.ADJ.AEDU.CD
+Current education expenditure, primary (%   of total expenditure in primary public institutions)	SE.XPD.CPRM.ZS
+Current education expenditure, secondary   (% of total expenditure in secondary public institutions)	SE.XPD.CSEC.ZS
+Current education expenditure, tertiary   (% of total expenditure in tertiary public institutions)	SE.XPD.CTER.ZS
+Current education expenditure, total (%   of total expenditure in public institutions)	SE.XPD.CTOT.ZS
+Current health expenditure (% of GDP)	SH.XPD.CHEX.GD.ZS
+Current health expenditure per capita   (current US$)	SH.XPD.CHEX.PC.CD
+Current health expenditure per capita,   PPP (current international $)	SH.XPD.CHEX.PP.CD
+Discrepancy in expenditure estimate of   GDP (constant LCU)	NY.GDP.DISC.KN
+Discrepancy in expenditure estimate of   GDP (current LCU)	NY.GDP.DISC.CN
+Domestic general government health   expenditure (% of current health expenditure)	SH.XPD.GHED.CH.ZS
+Domestic general government health   expenditure (% of GDP)	SH.XPD.GHED.GD.ZS
+Domestic general government health   expenditure (% of general government expenditure)	SH.XPD.GHED.GE.ZS
+Domestic general government health   expenditure per capita (current US$)	SH.XPD.GHED.PC.CD
+Domestic general government health   expenditure per capita, PPP (current international $)	SH.XPD.GHED.PP.CD
+Domestic private health expenditure (% of   current health expenditure)	SH.XPD.PVTD.CH.ZS
+Domestic private health expenditure per   capita (current US$)	SH.XPD.PVTD.PC.CD
+Domestic private health expenditure per   capita, PPP (current international $)	SH.XPD.PVTD.PP.CD
+Expenditure on primary education (% of   government expenditure on education)	SE.XPD.PRIM.ZS
+Expenditure on secondary education (% of   government expenditure on education)	SE.XPD.SECO.ZS
+Expenditure on tertiary education (% of   government expenditure on education)	SE.XPD.TERT.ZS
+Expense (% of GDP)	GC.XPN.TOTL.GD.ZS
+External health expenditure (% of current   health expenditure)	SH.XPD.EHEX.CH.ZS
+External health expenditure per capita   (current US$)	SH.XPD.EHEX.PC.CD
+External health expenditure per capita,   PPP (current international $)	SH.XPD.EHEX.PP.CD
+Final consumption expenditure (% of GDP)	NE.CON.TOTL.ZS
+Final consumption expenditure (annual %   growth)	NE.CON.TOTL.KD.ZG
+Final consumption expenditure (constant   2010 US$)	NE.CON.TOTL.KD
+Final consumption expenditure (constant   LCU)	NE.CON.TOTL.KN
+Final consumption expenditure (current   LCU)	NE.CON.TOTL.CN
+Final consumption expenditure (current   US$)	NE.CON.TOTL.CD
+GDP (constant 2010 US$)	NY.GDP.MKTP.KD
+GDP growth (annual %)	NY.GDP.MKTP.KD.ZG
+GDP per capita (constant 2010 US$)	NY.GDP.PCAP.KD
+General government final consumption   expenditure (% of GDP)	NE.CON.GOVT.ZS
+General government final consumption   expenditure (annual % growth)	NE.CON.GOVT.KD.ZG
+General government final consumption   expenditure (constant 2010 US$)	NE.CON.GOVT.KD
+General government final consumption   expenditure (constant LCU)	NE.CON.GOVT.KN
+General government final consumption   expenditure (current LCU)	NE.CON.GOVT.CN
+General government final consumption   expenditure (current US$)	NE.CON.GOVT.CD
+Government expenditure on education,   total (% of GDP)	SE.XPD.TOTL.GD.ZS
+Government expenditure on education,   total (% of government expenditure)	SE.XPD.TOTL.GB.ZS
+Government expenditure per student,   primary (% of GDP per capita)	SE.XPD.PRIM.PC.ZS
+Government expenditure per student,   secondary (% of GDP per capita)	SE.XPD.SECO.PC.ZS
+Government expenditure per student,   tertiary (% of GDP per capita)	SE.XPD.TERT.PC.ZS
+Gross national expenditure (% of GDP)	NE.DAB.TOTL.ZS
+Gross national expenditure (constant 2010   US$)	NE.DAB.TOTL.KD
+Gross national expenditure (constant LCU)	NE.DAB.TOTL.KN
+Gross national expenditure (current LCU)	NE.DAB.TOTL.CN
+Gross national expenditure (current US$)	NE.DAB.TOTL.CD
+Gross national expenditure deflator (base   year varies by country)	NE.DAB.DEFL.ZS
+Households and NPISHs final consumption   expenditure (% of GDP)	NE.CON.PRVT.ZS
+Households and NPISHs Final consumption   expenditure (annual % growth)	NE.CON.PRVT.KD.ZG
+Households and NPISHs Final consumption   expenditure (constant 2010 US$)	NE.CON.PRVT.KD
+Households and NPISHs Final consumption   expenditure (constant LCU)	NE.CON.PRVT.KN
+Households and NPISHs Final consumption   expenditure (current LCU)	NE.CON.PRVT.CN
+Households and NPISHs Final consumption   expenditure (current US$)	NE.CON.PRVT.CD
+Households and NPISHs Final consumption   expenditure per capita (constant 2010 US$)	NE.CON.PRVT.PC.KD
+Households and NPISHs Final consumption   expenditure per capita growth (annual %)	NE.CON.PRVT.PC.KD.ZG
+Households and NPISHs Final consumption   expenditure, PPP (constant 2011 international $)	NE.CON.PRVT.PP.KD
+Households and NPISHs Final consumption   expenditure, PPP (current international $)	NE.CON.PRVT.PP.CD
+Increase in poverty gap at $1.90 ($ 2011   PPP) poverty line due to out-of-pocket health care expenditure (% of poverty   line)	SH.UHC.NOP1.ZG
+Increase in poverty gap at $1.90 ($ 2011   PPP) poverty line due to out-of-pocket health care expenditure (USD)	SH.UHC.NOP1.CG
+Increase in poverty gap at $3.10 ($ 2011   PPP) poverty line due to out-of-pocket health care expenditure (% of poverty   line)	SH.UHC.NOP2.ZG
+Increase in poverty gap at $3.10 ($ 2011   PPP) poverty line due to out-of-pocket health care expenditure (USD)	SH.UHC.NOP2.CG
+International tourism, expenditures   (current US$)	ST.INT.XPND.CD
+International tourism, expenditures (% of   total imports)	ST.INT.XPND.MP.ZS
+International tourism, expenditures for   passenger transport items (current US$)	ST.INT.TRNX.CD
+International tourism, expenditures for   travel items (current US$)	ST.INT.TVLX.CD
+Military expenditure (% of GDP)	MS.MIL.XPND.GD.ZS
+Military expenditure (% of general   government expenditure)	MS.MIL.XPND.ZS
+Military expenditure (current LCU)	MS.MIL.XPND.CN
+Military expenditure (current USD)	MS.MIL.XPND.CD
+Net ODA received (% of GNI)	DT.ODA.ODAT.GN.ZS
+Number of people pushed below the $1.90   ($ 2011 PPP) poverty line by out-of-pocket health care expenditure	SH.UHC.NOP1.TO
+Number of people pushed below the $3.10   ($ 2011 PPP) poverty line by out-of-pocket health care expenditure	SH.UHC.NOP2.TO
+Number of people spending more than 10%   of household consumption or income on out-of-pocket health care expenditure	SH.UHC.OOPC.10.TO
+Number of people spending more than 25%   of household consumption or income on out-of-pocket health care expenditure	SH.UHC.OOPC.25.TO
+Out-of-pocket expenditure (% of current   health expenditure)	SH.XPD.OOPC.CH.ZS
+Out-of-pocket expenditure per capita   (current US$)	SH.XPD.OOPC.PC.CD
+Out-of-pocket expenditure per capita, PPP   (current international $)	SH.XPD.OOPC.PP.CD
+Primary government expenditures as a   proportion of original approved budget (%)	GF.XPD.BUDG.ZS
+Proportion of population pushed below the   $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%)	SH.UHC.NOP1.ZS
+Proportion of population pushed below the   $3.10 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%)	SH.UHC.NOP2.ZS
+Proportion of population spending more   than 10% of household consumption or income on out-of-pocket health care   expenditure (%)	SH.UHC.OOPC.10.ZS
+Proportion of population spending more   than 25% of household consumption or income on out-of-pocket health care   expenditure (%)	SH.UHC.OOPC.25.ZS
+Research and development expenditure (%   of GDP)	GB.XPD.RSDV.GD.ZS
+Risk of catastrophic expenditure for   surgical care (% of people at risk)	SH.SGR.CRSK.ZS
+Risk of impoverishing expenditure for   surgical care (% of people at risk)	SH.SGR.IRSK.ZS
